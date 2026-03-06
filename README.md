@@ -12,5 +12,5 @@
 $$\text{Softmax}(x_i) = \frac{\exp(x_i - \max(x))}{\sum_{j} \exp(x_j - \max(x))}$$
 - [x]  [高维空间向量几乎垂直](./数学证明.md#1)
 - [x]  [MLP的升维操作](./数学证明.md#2)
-- [X]  X
+- [X]  了解原理后训练出了第一个[BERT模型](./BERT.ipynb)
 
