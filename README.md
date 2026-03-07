@@ -1,5 +1,5 @@
 # llm_learning
-本项目用于记录我对大语言模型（LLM）底层原理的深度学习历程。
+本项目用于记录我对大语言模型（LLM）底层原理的深度学习历程与打卡日志
 
 - 3B1B文件夹用来存放我复现 3Blue1Brown 经典分数字的学习笔记
 - GPT文件夹用来存放我学习transformer基本原理的学习笔记
@@ -14,4 +14,6 @@ $$\text{Softmax}(x_i) = \frac{\exp(x_i - \max(x))}{\sum_{j} \exp(x_j - \max(x))}
 - [x]  [高维空间向量几乎垂直](./数学证明.md#1)
 - [x]  [MLP的升维操作](./数学证明.md#2)
 - [X]  了解原理后训练出了第一个[BERT模型](./SFT/BERT.ipynb)
+- [X]  矩阵求导
+- [X]  会手写transformer
 
